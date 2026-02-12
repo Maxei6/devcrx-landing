@@ -1,0 +1,23 @@
+{
+  "name": "devcrx-landing",
+  "version": "1.0.0",
+  "description": "Temporary landing page for DevCRX / OpenClaw Setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxei6/devcrx-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxei6/devcrx-landing/issues"
+  },
+  "homepage": "https://github.com/Maxei6/devcrx-landing#readme",
+  "devDependencies": {
+    "wrangler": "^4.64.0"
+  }
+}
